@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/ameenpaleri/mee-for-nms/releases/download/v0.7.0/MEE-for-NMS-v0.7.0-release.apk",
-  "notes": "New welcome screen and app icon."
+  "versionCode": 13,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/ameenpaleri/mee-for-nms/releases/download/v0.8.0/MEE-for-NMS-v0.8.0-release.apk",
+  "notes": "Saved logins (optional per profile) and a movable touch-panel button."
 }
